@@ -42,7 +42,7 @@
               Accompagner les entreprise dans leur developpement
           </p>
           <div class="flex flex-col md:flex-row-reverse md:justify-between items-center">
-            <img class="mt-10 rounded-[15px] md:w-[50%]" src="images/serviceAbout4.jpg" alt="">
+            <img class="mt-10 rounded-[15px] md:w-[50%]" src="/images/serviceAbout4.jpg" alt="">
             <p class="sm:text-[1.3rem] md:text-[1rem] lg:text-[1.4rem] mt-5 md:w-[45%]">
               Nous sommes là pour vous accompagner dans votre développement, car ous croyons que les entreprises sont les moteurs de la croissance économique, et nous sommes déterminés à vous aider à atteindre vos objectifs en vous fournissant les outils et le soutien dont vous avez besoin. 
             </p>
@@ -55,7 +55,7 @@
             Facilité l'accès le quotidien de tous 
           </p>
           <div class="flex flex-col md:flex-row md:justify-between items-center">
-            <img class="mt-10 rounded-[15px] md:w-[50%]" src="images/serviceAbout4.jpg" alt="">
+            <img class="mt-10 rounded-[15px] md:w-[50%]" src="/images/serviceAbout4.jpg" alt="">
             <p class="sm:text-[1.3rem] md:text-[1rem] lg:text-[1.4rem] mt-5 md:w-[45%]">
               Grâce à nos solutions innovante, nous rendons l'accès à un large éventail de services quotidiens plus facile et plus rapide que jamais. Du shopping au transport en passant par solution de diverses domaines d'activités, nous vous offrons un moyen simple de gérer votre vie quotidienne.  
             </p>
@@ -68,7 +68,7 @@
             Promouvoir le numérique
           </p>
           <div class="flex flex-col md:flex-row-reverse md:justify-between items-center">
-            <img class="mt-10 rounded-[15px] md:w-[50%]" src="images/serviceAboute2.jpg" alt="">
+            <img class="mt-10 rounded-[15px] md:w-[50%]" src="/images/serviceAboute2.jpg" alt="">
             <p class="sm:text-[1.3rem] md:text-[1rem] lg:text-[1.4rem] mt-5 md:w-[45%]">
               De la simplification des tâches quotidiennes à l'accès à des informations plus vastes, nous vous montrerons comment le numérique peut vous faciliter la vie. Rejoignez-nous dans notre mission pour promouvoir le numérique et découvrez comment vous pouvez en tirer le meilleur parti.
             </p>

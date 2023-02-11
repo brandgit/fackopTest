@@ -1,6 +1,6 @@
 <template>
   <div class="wrapperservices">
-    <TopServices/>
+    <ContentServicesTop/>
     <div
       class="flex flex-col items-center text-black text-center mt-[100px] w-[100%]"
     >
@@ -80,7 +80,7 @@
 </template>
 
 <script setup>
-import TopServices from "../components/TopServices/TopServices.vue"
+import TopServices from "../components/ContentServicesTop/ContentServicesTop.vue"
 </script>
 
 

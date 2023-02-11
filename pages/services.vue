@@ -89,17 +89,6 @@
   height: 100%;
   object-fit: cover;
 }
-/*.servicesbg {
-  width: 100%;
-  height: 100vh;
-  background: linear-gradient(90.21deg, #f8f9f9 -5.91%, #191a1aea 90.58%);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}*/
 
 .presentation {
   width: 100%;

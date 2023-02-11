@@ -42,7 +42,7 @@
               Accompagner les entreprise dans leur developpement
           </p>
           <div class="flex flex-col md:flex-row-reverse md:justify-between items-center">
-            <img class="mt-10 rounded-[15px] md:w-[50%]" src="/images/serviceAbout4.jpg" alt="">
+            <img class="mt-10 rounded-[15px] md:w-[50%]" src="/images/serviceAbout1.jpg" alt="">
             <p class="sm:text-[1.3rem] md:text-[1rem] lg:text-[1.4rem] mt-5 md:w-[45%]">
               Nous sommes là pour vous accompagner dans votre développement, car ous croyons que les entreprises sont les moteurs de la croissance économique, et nous sommes déterminés à vous aider à atteindre vos objectifs en vous fournissant les outils et le soutien dont vous avez besoin. 
             </p>

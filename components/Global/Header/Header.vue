@@ -129,7 +129,7 @@
                         <div v-else></div>
                     </div>
                 </div>
-                <NuxtLink to="/"><img class=" w-[90px] sm:w-[120px]" src="logos/LogoFackop6.0.png" alt="logo-fackop"></NuxtLink>
+                <NuxtLink to="/"><img class=" w-[90px] sm:w-[120px]" src="/logos/LogoFackop6.0.png" alt="logo-fackop"></NuxtLink>
             </div>
             <nav class="w-[55%] h-full">
                 <div class="flex items-center justify-end w-full h-full" >

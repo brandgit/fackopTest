@@ -76,7 +76,7 @@
                 conception et le suivi de solutions numériques d’une entité
                 professionnelle.
                 <NuxtLink
-                  class="font-semibold font-bold text-purple-500"
+                  class=" font-bold text-purple-500"
                   to="/about"
                   >En savoir plus</NuxtLink
                 >

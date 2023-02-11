@@ -3,7 +3,7 @@
     <div class="flex flex-col justify-center items-center w-full">
       <section class="presentation">
         <div class="content">
-          <img src="/Images/FackopImg1.jpg" />
+          <img src="/images/Fackopimg0.jpg" />
           <div class="text">
             <h1><strong>KIDANGUI</strong></h1>
             <h3>

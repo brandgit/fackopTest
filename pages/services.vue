@@ -54,7 +54,7 @@
         autoplay="true"
         loop="true"
         class="video"
-        src="/video/contact.mp4"
+        src="/videos/contact.mp4"
       ></video>
       <div
         class="absolute top-0 left-0 flex items-center justify-center w-full h-full"

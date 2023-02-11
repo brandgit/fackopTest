@@ -4,7 +4,7 @@
       autoplay="true"
       loop="true"
       class="video"
-      src="/Video/Fackopvideobg1.mp4"
+      src="/Video/fackopvideobg1.mp4"
     />
     <div
       class="flex flex-col top-[25%] sm:top-[35%] lg:top-[30%] absolute w-full z-1 bg-blck"

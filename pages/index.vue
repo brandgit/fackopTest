@@ -102,11 +102,11 @@
 </template>
 
 <script setup>
-import TopHome from "~~/components/Home/TopHome.vue";
-import Footer from "~~/components/Global/Footer/Footer.vue";
-import IntroOfThePage from "~~/components/Home/IntroOfThePage.vue";
+import TopHome from "../components/Home/TopHome.vue";
+import Footer from "../components/Global/Footer/Footer.vue";
+import IntroOfThePage from "../components/Home/IntroOfThePage.vue";
 import Carrousel from "../components/Home/Carrousel.vue"
-import TitleH1 from "~~/components/Global/TitleH1.vue";
+import TitleH1 from "../components/Home/Fondator.vue";
 import Fondator from "../components/Home/Fondator.vue"
 import { Icon } from "@iconify/vue";
 

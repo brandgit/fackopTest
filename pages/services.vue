@@ -1,6 +1,6 @@
 <template>
   <div class="wrapperservices">
-    <topservices />
+    <Topservices />
     <div
       class="flex flex-col items-center text-black text-center mt-[100px] w-[100%]"
     >
@@ -17,7 +17,7 @@
     <div class="flex flex-col justify-center items-center w-full">
       <section class="presentation">
         <div class="content">
-          <img src="/Images/Fackopimg0.jpg" />
+          <img src="/images/Fackopimg0.jpg" />
           <div class="text">
             <h1><strong>KIDANGUI</strong></h1>
             <h3>
@@ -54,7 +54,7 @@
         autoplay="true"
         loop="true"
         class="video"
-        src="/Video/contact.mp4"
+        src="/video/contact.mp4"
       ></video>
       <div
         class="absolute top-0 left-0 flex items-center justify-center w-full h-full"
@@ -78,6 +78,11 @@
     </div>
   </div>
 </template>
+
+<script setup>
+import Topservices from "../components/Topservices/Topservices.vue"
+</script>
+
 
 <style scoped>
 .wrapperservices {

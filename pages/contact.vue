@@ -72,7 +72,7 @@
         >
           <div
             class="flex flex-col items-center justify-center w-full p-12 bg-center bg-no-repeat bg-cover lg:w-1/2"
-            style="background-image: url('/Images/Fackopcontactcover1.jpg')"
+            style="background-image: url('/images/Fackopcontactcover1.jpg')"
           >
             <h1 class="mb-3 text-3xl text-white font-bold">Bienvenue</h1>
             <div>
